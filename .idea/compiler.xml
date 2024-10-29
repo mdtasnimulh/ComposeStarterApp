@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="MelodiQ.app" target="21" />
+      <module name="MelodiQ.core.common" target="21" />
+      <module name="MelodiQ.core.data" target="21" />
+      <module name="MelodiQ.core.database" target="21" />
+      <module name="MelodiQ.core.design-system" target="21" />
+      <module name="MelodiQ.core.di" target="21" />
+      <module name="MelodiQ.core.domain" target="21" />
+      <module name="MelodiQ.core.model.entity" target="21" />
+      <module name="MelodiQ.core.notifications" target="21" />
+      <module name="MelodiQ.core.shared-preference" target="21" />
+      <module name="MelodiQ.core.ui" target="21" />
+      <module name="MelodiQ.feature.home" target="21" />
+      <module name="MelodiQ.feature.settings" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
